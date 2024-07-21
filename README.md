@@ -10,4 +10,4 @@
 6. Update the componenets
 7. Update pipeline
 8. Update main.py
-9. Update the dcv.yaml
+9. Update the dvc.yaml
