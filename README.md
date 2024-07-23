@@ -23,11 +23,11 @@ https://github.com/Shashank1202/End-To-End-Deep-Learning-with-Mlops-MLflow-Dvc-C
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n project1 python=3.8 -y
+conda create -n cancer python=3.8 -y
 ```
 
 ```bash
-conda activate project1
+conda activate cancer
 ```
 
 
