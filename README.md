@@ -12,9 +12,48 @@
 8. Update main.py
 9. Update the dvc.yaml
 
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/Shashank1202/End-To-End-Deep-Learning-with-Mlops-MLflow-Dvc-CICD-with-AWS
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n project1 python=3.8 -y
+```
+
+```bash
+conda activate project1
+```
 
 
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
 
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+
+
+```bash
+Author: Shashank S
+AI Engineer
+Email: shashank.s.1202@gmail.com
+
+```
 
 ### DVC cmd
 
